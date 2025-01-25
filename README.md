@@ -22,5 +22,7 @@ I'm a Software Developer with 2+ years of progressive experience building and im
 <br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=ssanjose&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) <br />
 [![Kurt San Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssanjose&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br />
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjose&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ssanjose&theme=gruvbox)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjose&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=ssanjose&theme=gruvbox" alt="GitHub Streak"/>
+</a>
