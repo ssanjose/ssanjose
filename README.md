@@ -18,7 +18,7 @@ I am a full-stack engineer
 
 ### Stats
 
-![](https://komarev.com/ghpvc/?username=ssanjose&label=PROFILE+VIEWS&style=flat&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=ssanjose&label=PROFILE+VIEWS&style=flat&color=blueviolet&base=14)
 <br />
 [![Kurt San Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssanjose&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br />
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssanjose&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br/>
