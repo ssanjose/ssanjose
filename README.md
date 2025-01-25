@@ -14,11 +14,11 @@ I'm a Software Developer with 2+ years of progressive experience building and im
 </p>
 
 ### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=react,next,tailwind,ts,js,html,css,php,python,java,cs,mysql,scss,mui,tailwind,git,nodejs,express,postgresql,mongodb,django,heroku,aws,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,ts,js,html,css,python,java,cs,mui,tailwind,threejs,git,nodejs,express,mysql,postgresql,mongodb,django,kafka,heroku,docker,terraform,aws,blender,figma,vscode&perline=9)](https://skillicons.dev)
 
 ### Stats
 
-![](https://komarev.com/ghpvc/?username=ssanjose&label=PROFILE+VIEWS&style=flat&color=blueviolet&base=14)
+![](https://komarev.com/ghpvc/?username=ssanjose&label=PROFILE+VIEWS&style=flat&color=blueviolet)
 <br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=ssanjose&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy) <br />
 [![Kurt San Jose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssanjose&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br />
