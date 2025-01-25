@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Kurt San Jose
 
-I am a full-stack engineer
+I'm a Software Developer with 2+ years of progressive experience building and implementing high-impact solutions to business problems. Highly skilled in data design and DevOps, with a passion for software infrastructure engineering. History of effective team communication and documentation to continued success.
 
 [![Linkedin: kurtsanjose](https://img.shields.io/badge/-kurtsanjose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kurtsanjose/)](https://www.linkedin.com/in/kurtsanjose/)
 ![GitHub followers](https://img.shields.io/github/followers/ssanjose?label=Follow&style=social)
