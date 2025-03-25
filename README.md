@@ -11,6 +11,9 @@ I'm a Software Developer with 2+ years of progressive experience building and im
   <a href="https://linkedin.com/in/kurtsanjose" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurt-san-jose" height="30" width="40" />
   </a>
+  <a href="https://devpost.com/originswordsaintfuture" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurt-san-jose" height="30" width="40" />
+  </a>
 </p>
 
 ### Languages and Tools
@@ -26,3 +29,6 @@ I'm a Software Developer with 2+ years of progressive experience building and im
 <a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=ssanjose&theme=gruvbox" alt="GitHub Streak"/>
 </a>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/originswordsaintfuture"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="originswordsaintfuture" /></a></p><br><br>
